@@ -1,5 +1,5 @@
 {
-  "name": "lanshu-cli",
+  "name": "@lanshu/cli",
   "version": "0.0.1",
   "description": "蓝数CLI",
   "main": "index.js",
