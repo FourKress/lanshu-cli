@@ -2,6 +2,13 @@
   "name": "@lanshu/cli",
   "version": "0.0.1",
   "description": "蓝数CLI",
+  "keywords": [
+    "cli"
+  ],
+  "author": "wudong <511970747@qq.com>",
+  "publishConfig": {
+    "access": "public"
+  },
   "main": "index.js",
   "license": "MIT",
   "bin": {
