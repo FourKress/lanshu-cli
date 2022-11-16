@@ -8,8 +8,8 @@ const { errLog, successLog, infoLog } = require("../src/utils/log.js");
 
 const handleDownAndInitProject = (projectName, platform) => {
   const downloadUrlMap = {
-    Client: "direct:https://github.com/FourKress/client-demo",
-    System: "direct:https://github.com/FourKress/client-package",
+    Client: "direct:https://github.com/FourKress/lanshu-client-template",
+    System: "direct:https://github.com/FourKress/lanshu-system-template",
   };
   const spinner = ora();
   spinner.start("正在下载模板...");
